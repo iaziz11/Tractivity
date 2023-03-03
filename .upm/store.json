@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"a2993b9d72bdcf8cade8cb9328e17e4b","lockfileHash":"1e1b64bc82aeeb21d0e6403a26e4d6c6","guessedImports":["sqlite3","express","passport","cookie-session","passport-google-oauth20"],"guessedImportsHash":"41111a0945774a56b78329bd4bc91c76"}}}
